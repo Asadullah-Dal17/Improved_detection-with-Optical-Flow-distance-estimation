@@ -11,13 +11,18 @@
 ''' -->
 
 # Qr-code-detection-distance-estimation
-## TODO 
+
 ---
+
+## TODO
+
 - [x] Single Point🟢 Tracking
-- [ ] QR code Detection 
+- [ ] QR code Detection
 - [ ] QR Code Detecting and Optical Flow
-- [ ] Distance Estimation 
+- [ ] Distance Estimation
+
 ---
+
 ## Installation of Python Modules
 
 ### Windows 💠
@@ -33,6 +38,7 @@ pip install opencv-python pyzbar
 ```
 pip3 install opencv-python pyzbar
 ```
+
 ---
 
 ## Basic of Optical Flow 🔍
@@ -45,12 +51,11 @@ Detecting the QR code with pyzbar
 
 ## Combination of QR code Detection and Optical-flow
 
-Maximizing the Range 🐎 of QR code detecting with Optical-flow 🔎 
+Maximizing the Range 🐎 of QR code detecting with Optical-flow 🔎
 
 ## Distance Estimation, Maximized Ranged Detection  
 
-Estimating the distance using QR code detection and Optical flow 
-
+Estimating the distance using QR code detection and Optical flow
 
 Known width or height measurement, since QR code are Square(width and height are same here)
 

@@ -11,7 +11,13 @@
 ''' -->
 
 # Qr-code-detection-distance-estimation
-
+## TODO 
+---
+- [x] Single Point🟢 Tracking
+- [ ] QR code Detection 
+- [ ] QR Code Detecting and Optical Flow
+- [ ] Distance Estimation 
+---
 ## Installation of Python Modules
 
 ### Windows 💠

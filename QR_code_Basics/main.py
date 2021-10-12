@@ -7,7 +7,6 @@ import time
 import AiPhile 
 
 # QR code detector function 
-
 def detectQRcode(image):
     # convert the color image to gray scale image
     Gray = cv.cvtColor(image, cv.COLOR_BGR2GRAY)
@@ -27,7 +26,7 @@ def detectQRcode(image):
   
         return hull
 
-cap = cv.VideoCapture(0)
+cap = cv.VideoCapture(1)
 frame_counter =0
 starting_time =time.time()
 # keep looping until the 'q' key is pressed
@@ -38,7 +37,7 @@ while True:
     if hull_points:
         pt1, pt2, pt3, pt4 = hull_points
         frame =AiPhile.fillPolyTrans(frame, hull_points, AiPhile.MAGENTA, 0.6)
-        AiPhile.textBGoutline(frame, f'Detection: Pyzbar', (30,80), scaling=0.5,text_color=(AiPhile.MAGENTA ))
+        # AiPhile.textBGoutline(frame, f'Detection: Pyzbar', (30,80), scaling=0.5,text_color=(AiPhile.MAGENTA ))
         cv.circle(frame, pt1, 3, AiPhile.GREEN, 3)
         cv.circle(frame, pt2, 3, (255, 0, 0), 3)
         cv.circle(frame, pt3, 3,AiPhile.YELLOW, 3)

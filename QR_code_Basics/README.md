@@ -2,4 +2,4 @@
 
 > Detection the QR code using python module Pyzbar.
 
-## Tutorial Time stamps ➡️
+## Tutorial Time stamps ➡️ 

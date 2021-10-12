@@ -6,14 +6,12 @@ def selectPoint(event, x , y , flags, parmas):
     global point, condition
     if event ==cv.EVENT_LBUTTONUP:
         point =(int(x), int(y))
-        
         condition =True 
 
 cv.namedWindow('frame')
 cv.setMouseCallback('frame', selectPoint)
 
-cap = cv.VideoCapture(0)
-
+cap = cv.VideoCapture(1)
 frame_counter=0
 point =()
 condition = False

@@ -18,7 +18,6 @@ old_gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
 
 lk_param = dict(winSize=(20,20), maxLevel=4, criteria=(cv.TERM_CRITERIA_EPS | cv.TERM_CRITERIA_COUNT, 10, 0.01))
 
-
 frame_counter=0
 point =()
 condition = False

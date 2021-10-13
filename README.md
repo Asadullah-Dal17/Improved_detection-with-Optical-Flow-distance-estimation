@@ -17,9 +17,9 @@
 ## TODO
 
 - [x] Single Point🟢 Tracking
-- [ ] QR code Detection
-- [ ] QR Code Detecting and Optical Flow
-- [ ] Distance Estimation
+- [x] QR code Detection
+- [x] QR Code Detecting and Optical Flow
+- [x] Distance Estimation
 
 ---
 

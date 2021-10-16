@@ -5,4 +5,4 @@
 💚 🖤 *-----------------------------* :black_heart:💚
 
 
-## Tutorial Time Stamps ➡️ 
+## Tutorial Time Stamps ➡️ [Distance Estimation of QR code with optical Flow and Pyzbar](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=2120s)

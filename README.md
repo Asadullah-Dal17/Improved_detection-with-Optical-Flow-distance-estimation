@@ -18,7 +18,7 @@
 
 - [x] [Selecting point with mouse](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=283s)
 - [x] [Single Point🟢 Tracking](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=770s)
-- [x] QR code Detection
+- [x] [QR code Detection](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=1188s)
 - [x] QR Code Detecting and Optical Flow
 - [x] Distance Estimation
 

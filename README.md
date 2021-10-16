@@ -20,11 +20,15 @@
 - [x] [Single Point🟢 Tracking](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=770s)
 - [x] [QR code Detection](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=1188s)
 - [x] [Improve QR code Detection Range with Optical Flow](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=1647s)
-- [x] [Distance Estimation of QR code with optical Flow and Pyzbar]
+- [x] [Distance Estimation of QR code with optical Flow and Pyzbar](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=2120s)
 
 ---
 
-## Installation of Python Modules
+Complete Video Tutorial: [Youtube Video Tutorial](https://youtu.be/VUTJeDl-ar8)
+
+---
+
+## Installation of Python Modules [Video Tutorial](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=165s)
 
 ### Windows 💠
 
@@ -42,19 +46,19 @@ pip3 install opencv-python pyzbar
 
 ---
 
-## Basic of Optical Flow 🔍
+## Basic of Optical Flow 🔍 [Video Tutorial](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=770s)
 
 Tracking single point, using optical flow
 
-## Basics of QR Code 💻
+## Basics of QR Code 💻[Video Tutorial](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=1188s)
 
 Detecting the QR code with pyzbar
 
-## Combination of QR code Detection and Optical-flow
+## Combination of QR code Detection and Optical-flow  [Video Tutorial](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=1647s)
 
 Maximizing the Range 🐎 of QR code detecting with Optical-flow 🔎
 
-## Distance Estimation, Maximized Ranged Detection  
+## Distance Estimation, Maximized Ranged Detection  [Video Tutorial](https://www.youtube.com/watch?v=VUTJeDl-ar8&t=2120s)
 
 Estimating the distance using QR code detection and Optical flow
 
